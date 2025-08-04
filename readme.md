@@ -1,4 +1,3 @@
-````markdown
 # Fine-Tuning LLM for Datetime Extraction (Approach Overview)
 
 ## 1. Generate and Prepare Dataset

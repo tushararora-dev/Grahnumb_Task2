@@ -1,0 +1,262 @@
+[
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "yesterday at 14:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-03\", \"time\": \"14:30\", \"approximate\": false}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "today between 9 and 12",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-04\", \"start_time\": \"09:00\", \"end_time\": \"12:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "show it on 15th March at 16:45",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-03-15\", \"time\": \"16:45\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "last week Monday at 10:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-07-28\", \"time\": \"10:30\", \"relative_reference\": \"last week\", \"weekday\": \"Monday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "tomorrow at 8",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-05\", \"time\": \"08:00\", \"ambiguous_period\": \"am_pm_unclear\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this morning around 7:15",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"07:15\", \"approximate\": true}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "yesterday evening around 19:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-03\", \"time\": \"19:30\", \"approximate\": true}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "from 14 to 17 today",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-04\", \"start_time\": \"14:00\", \"end_time\": \"17:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "Apr 20 at 11:00",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-04-20\", \"time\": \"11:00\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "next Friday around 15:00",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-11\", \"time\": \"15:00\", \"relative_reference\": \"next\", \"weekday\": \"Friday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "tonight",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"21:00\", \"approximate\": false}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "yesterday between 3-6",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-03\", \"start_time\": \"03:00\", \"end_time\": \"06:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "18th June at 9:45",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-06-18\", \"time\": \"09:45\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this week Wednesday at 13:15",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"13:15\", \"relative_reference\": \"this week\", \"weekday\": \"Wednesday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "today at 11",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"11:00\", \"ambiguous_period\": \"am_pm_unclear\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this afternoon at 14:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"14:30\", \"approximate\": false}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "last night around 23:15",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-03\", \"time\": \"23:15\", \"approximate\": true}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "tomorrow 16-19",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-05\", \"start_time\": \"16:00\", \"end_time\": \"19:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "schedule for February 8 at 10:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-02-08\", \"time\": \"10:30\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "last week Thursday around 12:45",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-07-28\", \"time\": \"12:45\", \"relative_reference\": \"last week\", \"weekday\": \"Thursday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "yesterday at 6",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-03\", \"time\": \"06:00\", \"ambiguous_period\": \"am_pm_unclear\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "yesterday morning at 8:15",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-03\", \"time\": \"08:15\", \"approximate\": false}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this evening between 18 and 21",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-04\", \"start_time\": \"18:00\", \"end_time\": \"21:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "on 25 May at 14:00",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-05-25\", \"time\": \"14:00\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "next Tuesday at 16:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-11\", \"time\": \"16:30\", \"relative_reference\": \"next\", \"weekday\": \"Tuesday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "tomorrow morning",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-05\", \"time\": \"08:00\", \"approximate\": false}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "today from 11 to 15",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-04\", \"start_time\": \"11:00\", \"end_time\": \"15:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "12th January at 7:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-01-12\", \"time\": \"07:30\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this week Friday around 17:15",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"17:15\", \"relative_reference\": \"this week\", \"weekday\": \"Friday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "today at 9",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"09:00\", \"ambiguous_period\": \"am_pm_unclear\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this evening around 20:45",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"20:45\", \"approximate\": true}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "yesterday afternoon between 13-16",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-03\", \"start_time\": \"13:00\", \"end_time\": \"16:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "Jul 3 at 12:00",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-07-03\", \"time\": \"12:00\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "last Wednesday at 9:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-07-28\", \"time\": \"09:30\", \"relative_reference\": \"last\", \"weekday\": \"Wednesday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "tomorrow evening",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-05\", \"time\": \"19:00\", \"approximate\": false}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "today 8-12",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-04\", \"start_time\": \"08:00\", \"end_time\": \"12:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "on 4th October at 15:15",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-10-04\", \"time\": \"15:15\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "next week Sunday around 11:45",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-11\", \"time\": \"11:45\", \"relative_reference\": \"next week\", \"weekday\": \"Sunday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "yesterday at 12",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-03\", \"time\": \"12:00\", \"ambiguous_period\": \"am_pm_unclear\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this morning at 6:45",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"06:45\", \"approximate\": false}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "tonight between 20 and 23",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-04\", \"start_time\": \"20:00\", \"end_time\": \"23:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "March 22 at 13:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-03-22\", \"time\": \"13:30\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "last Saturday around 14:15",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-07-28\", \"time\": \"14:15\", \"relative_reference\": \"last\", \"weekday\": \"Saturday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "yesterday night",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-03\", \"time\": \"22:00\", \"approximate\": false}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "tomorrow from 7 to 10",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-05\", \"start_time\": \"07:00\", \"end_time\": \"10:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "9/15 at 16:00",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-09-15\", \"time\": \"16:00\", \"ambiguous_period\": \"none\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this week Monday at 10:00",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"10:00\", \"relative_reference\": \"this week\", \"weekday\": \"Monday\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "tomorrow at 5",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-05\", \"time\": \"05:00\", \"ambiguous_period\": \"am_pm_unclear\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "this afternoon around 15:30",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-04\", \"time\": \"15:30\", \"approximate\": true}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "today morning between 6-9",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-08-04\", \"start_time\": \"06:00\", \"end_time\": \"09:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "schedule on January 28 from 11:00 to 14:00",
+    "output": "{\"type\": \"time_range\", \"date\": \"2024-01-28\", \"start_time\": \"11:00\", \"end_time\": \"14:00\"}"
+  },
+  {
+    "instruction": "Extract temporal information and return JSON with exact datetime.",
+    "input": "next Thursday at 8:45",
+    "output": "{\"type\": \"single_time\", \"date\": \"2024-08-11\", \"time\": \"08:45\", \"relative_reference\": \"next\", \"weekday\": \"Thursday\"}"
+  }
+]

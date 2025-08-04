@@ -1,0 +1,200 @@
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "this morning at 7-10", "output": {"start": "2025-08-04T07:00:00+05:30", "end": "2025-08-04T10:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-03T15:00:00+05:30", "end": "2025-08-03T16:00:00+05:30"}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last night 11:30", "output": {"start": "2025-08-03T23:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-03T20:30:00+05:30", "end": null}}
+{"instruction": "Extract exact datetime from this expression assuming today is 2025-08-04.", "input": "last week Saturday 10", "output": {"start": "2025-08-02T10:00:00+05:30", "end": null}}
